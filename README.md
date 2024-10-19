@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create simple calculator using Android Studio.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber:  212223240036
+Developed by: KISHORE B
+RegisterNumber:  212223240073
 */
 ```
 
